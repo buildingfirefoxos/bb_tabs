@@ -1,0 +1,17 @@
+{
+  "name": "bb_tabs",
+  "version": "1.4",
+  "homepage": "https://github.com/buildingfirefoxos/bb_tabs",
+  "authors": [
+    "The gaia team"
+  ],
+  "description": "Tabs  - Firefox OS Building Blocks",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
